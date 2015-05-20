@@ -1,0 +1,82 @@
+.arrow-left, .arrow-right, .feature-bg, .dlbgfull, .logo-bg, .pad, .phone, .phone-dl, .shadow, .btnl, .btnr, .line, .socialbg{
+	background: url(sprites.png) no-repeat;
+}
+
+.arrow-left{
+	background-position: -285px -79px ;
+	width: 34px;
+	height: 62px;
+}
+
+.arrow-right{
+	background-position: -325px -79px ;
+	width: 34px;
+	height: 62px;
+}
+
+.feature-bg{
+	background-position: 0 -199px ;
+	width: 215px;
+	height: 215px;
+}
+
+.dlbgfull{
+	background-position: -280px 0;
+	width: 306px;
+	height: 76px;
+}
+
+.logo-bg{
+	background-position: 0 0;
+	width: 280px;
+	height: 195px;
+}
+
+.pad{
+	background-position: -455px -151px ;
+	width: 310px;
+	height: 407px;
+}
+
+.phone{
+	background-position: -772px -151px ;
+	width: 147px;
+	height: 269px;
+}
+
+.phone-dl{
+	background-position: -609px -8px ;
+	width: 29px;
+	height: 52px;
+}
+
+.shadow{
+	background-position: 0 -425px ;
+	width: 385px;
+	height: 20px;
+}
+
+.btnl{
+	background-position: -463px -82px ;
+	width: 457px;
+	height: 31px;
+}
+
+.btnr{
+	background-position: -912px -115px ;
+	width: 8px;
+	height: 31px;
+}
+
+.line{
+	background-position: 0 -582px ;
+	width: 920px;
+	height: 2px;
+}
+
+.socialbg{
+	background-position: -660px -9px ;
+	width: 32px;
+	height: 32px;
+}
+
